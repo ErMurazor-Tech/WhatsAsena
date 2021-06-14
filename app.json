@@ -3,9 +3,7 @@
     "description": "SOPHIE project - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
     "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/Quiec/WhatsAsena",
-    "website":   "https://quiec.tech",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/ErMurazor-Tech/WhatsAsena.git",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
