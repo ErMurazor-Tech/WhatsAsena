@@ -2,7 +2,7 @@
   "name": "SOPHIE",
   "version": "0.10.0",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./whatsAsena/bot.js",
+  "main": ".ErMurazor-Tech/WhatsAsena/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
